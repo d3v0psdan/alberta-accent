@@ -10,6 +10,8 @@ Example output:
 
 > honestly bud whole things a fuckin shitshow, server shit the bed last night. we'll get er sorted but right now shes wrecked
 
+![Output Example](media.png)
+
 ## Install
 
 1. Download `SKILL.md`
